@@ -1,1 +1,1 @@
-# PatikaAPI
+HTTTP methodları ile API uygulaması
